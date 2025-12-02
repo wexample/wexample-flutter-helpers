@@ -1,9 +1,18 @@
-dependencies: null
-description: A starting point for Dart libraries or applications.
-dev_dependencies:
-  lints: ^4.0.0
-  test: ^1.24.0
-environment:
-  sdk: ^3.5.4
 name: helpers
-version: 1.0.0
+description: Helper utilities for Flutter projects.
+version: 0.0.1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
