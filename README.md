@@ -2,7 +2,7 @@
 
 Version: 0.0.1
 
-A starting point for Dart libraries or applications.
+Helper utilities for Flutter projects.
 
 ## Table of Contents
 
@@ -129,8 +129,9 @@ Refer to each package's documentation for specific version compatibility require
 
 ## Dependencies
 
-- lints: <ConfigValue(type=str, value=^4.0.0)>
-- test: <ConfigValue(type=str, value=^1.24.0)>
+- flutter: NestedConfigValue(raw={'sdk': <ConfigValue(type=str, value=flutter)>})
+- flutter_lints: <ConfigValue(type=str, value=^3.0.2)>
+- flutter_test: NestedConfigValue(raw={'sdk': <ConfigValue(type=str, value=flutter)>})
 
 
 # About us

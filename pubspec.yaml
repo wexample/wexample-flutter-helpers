@@ -1,18 +1,14 @@
-name: helpers
-description: Helper utilities for Flutter projects.
-version: 0.0.1
-
-environment:
-  sdk: ">=3.1.0 <4.0.0"
-  flutter: ">=3.13.0"
-
 dependencies:
   flutter:
     sdk: flutter
-
+description: Helper utilities for Flutter projects.
 dev_dependencies:
+  flutter_lints: ^3.0.2
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.2
-
-flutter:
+environment:
+  flutter: '>=3.13.0'
+  sdk: '>=3.1.0 <4.0.0'
+flutter: null
+name: helpers
+version: 0.0.1
