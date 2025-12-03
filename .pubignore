@@ -1,2 +1,0 @@
-# Exclude local Wexample tooling artifacts from the published package.
-.wex/
