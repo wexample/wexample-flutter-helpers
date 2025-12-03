@@ -10,5 +10,8 @@ environment:
   flutter: '>=3.13.0'
   sdk: '>=3.1.0 <4.0.0'
 flutter: null
+homepage: https://github.com/wexample/flutter-helpers
+issue_tracker: https://github.com/wexample/flutter-helpers/issues
 name: flutter_helpers
+repository: https://github.com/wexample/flutter-helpers
 version: 0.0.1
