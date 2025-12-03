@@ -13,6 +13,6 @@ environment:
 flutter: null
 homepage: https://github.com/wexample/flutter-helpers
 issue_tracker: https://github.com/wexample/flutter-helpers/issues
-name: flutter_helpers
+name: wexample_flutter_helpers
 repository: https://github.com/wexample/flutter-helpers
 version: 0.0.1
