@@ -1,6 +1,6 @@
 # flutter_helpers
 
-Version: 0.0.14
+Version: 0.0.15
 
 Helper utilities for Flutter projects.
 
@@ -132,6 +132,7 @@ Refer to each package's documentation for specific version compatibility require
 - flutter: NestedConfigValue(raw={'sdk': <ConfigValue(type=str, value=flutter)>})
 - flutter_lints: <ConfigValue(type=str, value=^3.0.2)>
 - flutter_test: NestedConfigValue(raw={'sdk': <ConfigValue(type=str, value=flutter)>})
+- test: <ConfigValue(type=str, value=^1.24.0)>
 
 
 # About us
