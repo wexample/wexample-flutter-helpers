@@ -1,6 +1,6 @@
 # flutter_helpers
 
-Version: 0.0.16
+Version: 0.0.17
 
 Helper utilities for Flutter projects.
 
