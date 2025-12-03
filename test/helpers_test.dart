@@ -1,4 +1,4 @@
-import 'package:helpers/helpers.dart';
+import 'package:flutter_helpers/helpers.dart';
 import 'package:test/test.dart';
 
 void main() {
